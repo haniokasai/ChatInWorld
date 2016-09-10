@@ -1,0 +1,7 @@
+name: MagicPVP
+main: com.haniokasai.nukkit.ChatInWorld.ChatInWorld
+version: 1.0.0
+author: haniokasai
+api: ["1.0.0"]
+description: ChatInWorld
+website: http://haniokasai.com
