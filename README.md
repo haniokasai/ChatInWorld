@@ -1,5 +1,9 @@
 # ChatInWorld
-chat separate per-world
+
+##Download http://jenkins.haniokasai.com/job/ChatInWorld-Nukkit/
+[![Build Status](http://jenkins.haniokasai.com/buildStatus/icon?job=ChatInWorld-Nukkit)](http://jenkins.haniokasai.com/job/ChatInWorld-Nukkit/ "Jenkins ")
+
+you can separate chat  per-world.
 
 
 ##API
